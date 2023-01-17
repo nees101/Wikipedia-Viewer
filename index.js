@@ -2,7 +2,7 @@
 $(".search-icon").click(function(){
       $(".search-icon,.click").css("display","none");
       $(".search-area,.close-icon,.go_btn").css("display","block");
-     
+      $(".search-area").val(null); 
     });
 
 $(".close-icon").click(function(){

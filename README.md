@@ -32,11 +32,13 @@ Users should be able to:
 
 ![](./FinalDesignScreenshots/Desktop_active_version.png)
 
+![](./FinalDesignScreenshots/Desktop_active_version_1.png)
+
 
 
 ### Links
 
-- Live Site URL: [@nees101/Github]( https://nees101.github.io/Fylo-Landing-Page-with-two-column-layout/)
+- Live Site URL: [@nees101/Github]( https://nees101.github.io/Wikipedia-Viewer/)
 
 ## My process
 

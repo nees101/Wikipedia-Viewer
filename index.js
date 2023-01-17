@@ -1,6 +1,6 @@
 
 $(".search-icon").click(function(){
-      $(".search-icon").css("display","none");
+      $(".search-icon,.click").css("display","none");
       $(".search-area,.close-icon").css("display","block");
      
     });

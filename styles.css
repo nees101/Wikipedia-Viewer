@@ -61,6 +61,18 @@
     cursor:pointer;
   
   }
+.go_btn{
+    display:none;
+    border:none !important;
+    background-color:orange;
+    padding:10px 30px;
+    border-radius: 0.5em;
+    margin:20px auto ;
+  }
+  .go_btn:hover{
+    color:orange;
+  background-color:white;
+  }
   .result-item{
     background-color:white;
     color:black;

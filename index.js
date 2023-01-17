@@ -1,12 +1,12 @@
 
 $(".search-icon").click(function(){
       $(".search-icon,.click").css("display","none");
-      $(".search-area,.close-icon").css("display","block");
+      $(".search-area,.close-icon,.go_btn").css("display","block");
      
     });
 
 $(".close-icon").click(function(){
-      $(".close-icon,.result-item,.search-area").css("display","none");
+      $(".close-icon,.result-item,.search-area,.go_btn").css("display","none");
       $(".search-icon,.click,.random-link").css("display","block");    
     });
     

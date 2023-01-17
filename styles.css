@@ -20,8 +20,8 @@
   .search{
     margin-top:4rem;
   }
-  .wiki-logo{
-    max-width:250px;
+  .logo{
+    max-width:200px;
   }
   a{
     text-decoration:none;
@@ -78,6 +78,13 @@
   .result-link{
     color:blue;
   }
+attribute {
+    position:absolute;
+    bottom:0;
+    font-size:11px;
+    text-align:center;
+  }
+
   
   /* Media Query */
   @media screen and (max-width:580px){
@@ -87,8 +94,6 @@
     .container{
     padding:8rem 2rem;
   }
-    .wiki-logo{
-      width:100%;
-    }
+
    
   }

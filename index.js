@@ -23,7 +23,7 @@ $(".close-icon").click(function(){
         console.log(err);
         alert('Failed to search wikipedia');
       }
-      $(".click,.random-link").css("display","none");
+      $(".random-link,.go_btn,.logo").css("display","none");
          
     });
     
